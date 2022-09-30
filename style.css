@@ -1,0 +1,29 @@
+BODY{
+    text-align:center;
+   background:linear-gradient(pink 30%, blue 90%);
+    background-repeat:no-repeat;
+  }
+  h1{
+    text-shadow:2px 1px;
+    font-size:20px;
+  }
+  
+  #p{
+    color:black;
+    font-size:20px;
+    
+  }
+  img{
+    border-radius:50%;
+      width:350px;
+  }
+  
+  
+  .links{
+    
+     float:right;
+    padding:9px;
+      font-family: fantasy;
+      font-size: 20px;
+    background-color:white;
+  }
